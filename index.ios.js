@@ -1,3 +1,4 @@
+/* example from http://frontend.turing.io/lessons/react-native-routing.html */
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 import App from './App';
